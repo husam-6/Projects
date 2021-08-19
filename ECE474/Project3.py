@@ -45,7 +45,7 @@ x = np.concatenate((data1, data2))
 t1 = np.ones(len(data1))
 t2 = np.zeros(len(data2))
 t = np.concatenate((t1, t2))
-
+ 
 def ratio(data, thresh):
         count = 0
         for i in range(0,N):
