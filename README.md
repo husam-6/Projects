@@ -12,3 +12,6 @@ Current inclusions:
 4). ECE467 - Natural Language Processing (Python)
 
 5). ECE474 - Bayesian Machine Learning (Python)
+
+6). Planner Application - User Interfaces/User Experience Planner
+web app (HTML/CSS/JS)
